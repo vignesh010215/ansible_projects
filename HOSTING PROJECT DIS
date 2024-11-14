@@ -1,0 +1,8 @@
+EC2 MACHINE:
+
+           "I will dive into EC2, which provides virtual servers in the cloud. I will learn how to launch EC2 instances, connect to them using SSH, 
+            and understand key concepts such as instance  types, security groups, and key pairs. I have created five machines, with one master and four slaves, 
+            configured using Ansible."
+
+
+            
